@@ -12,7 +12,7 @@ const Logo = () => {
         className="hidden md:block cursor-pointer"
         height="100"
         width="100"
-        src="/build1/public/images/logo.png"
+        src="/images/logo.png"
         />
 
         
